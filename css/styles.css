@@ -1,0 +1,165 @@
+html{
+    position: relative;
+    min-height: 100%;
+}
+
+body{
+    /* background-color: rgb(112, 129, 112); */
+    margin-bottom: 60px; /* Same as Footer Height */
+    background-image: url(../images/green-cactus-pattern-1372262408HKU.jpg);  
+    background-repeat: n;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.fix{
+    height: 250px;
+    display: initial;
+    margin-left: auto;
+    margin-right: auto;
+}
+.text-center{
+    background-color: initial;
+    font-family: sans-serif cursive;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(20, 22, 24);
+    
+}
+.myjumbotron{
+    background-color: initial;
+    font-family: sans-serif;
+    font-size: 200px;
+    text-align: center;
+    color: rgb(20, 22, 24);
+
+}
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 45px;
+    background-color: #333;
+
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    width: 80px;
+    box-sizing: content-box;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: rgb(180, 112, 163);
+  }
+ h2{
+     font-size: 18px;
+     color: rgb(180, 112, 163)
+    
+ } 
+.Questions{
+    background-color: transparent;
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: left;
+    color: rgb(20, 22, 24);
+  
+}
+.text-left{
+    background-color: initial;
+    font-family: sans-serif cursive;
+    font-size: 40px;
+    text-align: left;
+    color: rgb(20, 22, 24);
+    
+}
+form.highlighted {
+    display: block;
+    width: 80%;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-left-style: none;
+    border-right-style: none;
+    border-width: thin;
+    border-color: #006600;
+    background-color: #FAD77D;
+    margin-left: 100px;
+    margin-right: 0;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 3px;
+    padding-bottom: 6px;
+  
+}
+element.style {
+}
+div.centred {
+    width:100%;
+    margin: auto;
+}
+div {
+    display: block;
+}
+body, a, div, p, h1, h2, h3, h4, h5, table, td {
+    font-family: arial, verdana, helvetica, sans-serif;
+    color: #006600;
+    background-color: transparent;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    border-spacing: 2px;
+    border-color: grey;
+}
+element.style{
+}
+
+h1, h2, h3 {
+    font-weight: bold;
+}
+body, a, div, p, h1, h2, h3, h4, h5, table, td {
+    font-family: arial, verdana, helvetica, sans-serif;
+    color: rgb(20, 22, 24);
+    background-color: transparent;
+}
+user agent stylesheet
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+h3 {
+    display: block;
+    font-weight: bold;
+    text-align: center;
+}
